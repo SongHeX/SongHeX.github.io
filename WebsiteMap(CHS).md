@@ -8,8 +8,6 @@ permalink: /websitemap.html
 
 **嘻嘻**
 
--[COVID-19 疫情地图](/covid19map.html)
-
 -[羊了个羊](/webapp/yang/)
 
 -[2048](/webapp/2048/)
