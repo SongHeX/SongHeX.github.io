@@ -4,7 +4,7 @@ permalink: /websitemap.html
 
 # 网站导航
 
-![image](https://gitee.com/song_hx/SongHeX.github.io/raw/main/newyear/files/boom.png)
+[image](https://gitee.com/song_hx/SongHeX.github.io/raw/main/newyear/files/boom.png)
 
 **[首页](https://SongHeX.github.io/chs)**
 
