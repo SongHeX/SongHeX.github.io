@@ -8,7 +8,6 @@ permalink: /websitemap.html
 
 **[首页](https://SongHeX.github.io/chs)**
 
-**[新闻?](https://corestudionews.github.io)**
 
 
 **WebAPP**
