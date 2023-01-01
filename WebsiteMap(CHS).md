@@ -4,7 +4,7 @@ permalink: /websitemap.html
 
 # 网站导航
 
-[image](https://foruda.gitee.com/images/1672548832261336996/da651ea4_5465503.png)
+![image](https://foruda.gitee.com/images/1672548832261336996/da651ea4_5465503.png)
 
 **[首页](https://SongHeX.github.io/chs)**
 
