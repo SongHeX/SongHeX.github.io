@@ -10,18 +10,11 @@ permalink: /websitemap.html
 
 
 
-**WebAPP**
+**嘻嘻**
 
 -[COVID-19 疫情地图](/covid19map.html)
 
 -[羊了个羊](/webapp/yang/)
 
 -[2048](/webapp/2048/)
-
-**[服务](/service)**
-
-**[文章](/article)**
-
--[AdGuard广告拦截破解程序](/article/adguardhack)
-
-[我的世界 区](/mc)
+-[新年](newyear)
