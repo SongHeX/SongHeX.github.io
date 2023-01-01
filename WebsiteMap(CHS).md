@@ -14,6 +14,8 @@ permalink: /websitemap.html
 
 -[2048](/webapp/2048/)
 
+-[heart](heart)
+
 -[烟花](yanhua)
 
 -[新年](newyear)
